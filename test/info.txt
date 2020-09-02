@@ -1,0 +1,1 @@
+No es pot executar per separat, s'ha d'executar desde l'android studio
